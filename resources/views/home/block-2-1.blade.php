@@ -31,11 +31,11 @@
                 <div class="contact-info">
                     <div class="email">
                         <span class="material-symbols-outlined">mail</span>
-                        <p>sample@mailnaitor.com</p>
+                        <p>rosarioderichamay@gmail.com</p>
                     </div>
                     <div class="email">
                         <span class="material-symbols-outlined">call</span>
-                        <p>090202020202</p>
+                        <p>09387664254</p>
                     </div>
                 </div>
             </div>
