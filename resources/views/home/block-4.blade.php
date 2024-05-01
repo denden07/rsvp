@@ -191,3 +191,9 @@
     <div class="spacer-40"></div>
     <div class="spacer-40"></div>
 </div>
+
+<style>
+    .participants ul {
+    list-style-type: disc; /* Use disc bullets */
+}
+</style>
