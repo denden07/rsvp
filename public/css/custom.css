@@ -684,11 +684,12 @@ body {
     background-size: cover;
     background-position-x: center;
 }
-
-
-.block-4-container {
+        /* .block-4-container {
     height: 500px;
-}
+}  */
+
+
+
 
 .wave-1 {
     height: 370px;
@@ -1165,7 +1166,8 @@ ul {
 
 .participants {
     display: flex;
-    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: flex-start;
 }
 
 .form-button {
@@ -1301,7 +1303,7 @@ ul {
     }
 
     ul li {
-        font-size: 14px;
+        font-size: 18px;
     }
 
 
