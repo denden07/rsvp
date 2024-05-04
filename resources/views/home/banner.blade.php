@@ -4,7 +4,7 @@
             <div class="banner-contents">
                 <h3  data-aos="fade-left" class="banner-invited">You are invited to</h3>
                 <p data-aos="fade-up"><span style="color: #fef250">Dericha's</span> 18th <br>Birthday</p>
-                <p class="bdate">- May 19, 2024 -</p>
+                <p class="bdate">- May 18, 2024 -</p>
             </div>
 
         </div>

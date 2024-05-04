@@ -11,7 +11,7 @@
         <div class="spacer-40"></div>
         <div class="content-1-contents-2">
             <h3>It's my 18th birthday</h3>
-            <h3>May 19th 2024 | Piddig Ilocos Norte</h3>
+            <h3>May 18th 2024 | Piddig Ilocos Norte</h3>
             <div class="spacer-16"></div>
             <p>I'm super excited to have you all with me on my very special day!</p>
         </div>
