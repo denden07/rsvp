@@ -9,7 +9,6 @@
 
     <title>{{ config('app.name', 'Laravel') }}</title>
 
-    <!-- Scripts -->
 
 
     <!-- G Fonts -->
@@ -35,6 +34,8 @@
     <!-- FOwl Notify -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/notyf@3/notyf.min.css">
 
+        <!-- Scripts -->
+        <script src="{{ asset('js/app.js') }}" defer></script>
 </head>
 <body>
 
