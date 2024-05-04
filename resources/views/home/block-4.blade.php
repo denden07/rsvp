@@ -4,7 +4,7 @@
         <div class="owl-carousel owl-carousel1 owl-theme">
             <div>
                 <div class="card text-center card-maroon">
-                    <img class="card-img-top" src="{{ asset('images/roses.jpg') }}" alt="" loading="lazy">
+                    <img class="card-img-top" src="{{ asset('images/roses.jpg') }}" alt="">
                     <div class="card-body">
                         <h5 class="text-gold">18 Roses </h5>
                         <div class="spacer-32"></div>
@@ -37,7 +37,7 @@
             </div>
             <div>
                 <div class="card text-center card-gold">
-                    <img class="card-img-top" src="{{ asset('images/candles.jpg') }}" alt="" loading="lazy">
+                    <img class="card-img-top" src="{{ asset('images/candles.jpg') }}" alt="">
                     <div class="card-body">
                         <h5>18 Candles </h5>
                         <div class="spacer-32"></div>
@@ -70,7 +70,7 @@
             </div>
             <div>
                 <div class="card text-center card-maroon">
-                    <img class="card-img-top" src="{{ asset('images/bill.webp') }}" alt="" loading="lazy">
+                    <img class="card-img-top" src="{{ asset('images/bill.webp') }}" alt="">
                     <div class="card-body">
                         <h5>18 Treasures </h5>
                         <div class="spacer-32"></div>
@@ -103,7 +103,7 @@
             </div>
             <div>
                 <div class="card text-center  card-gold">
-                    <img class="card-img-top" src="{{ asset('images/bill.webp') }}" alt="" loading="lazy">
+                    <img class="card-img-top" src="{{ asset('images/bill.webp') }}" alt="">
                     <div class="card-body">
                         <h5>18 Paper Bills </h5>
                         <div class="spacer-32"></div>
@@ -136,7 +136,7 @@
             </div>
             <div>
                 <div class="card text-center card-maroon">
-                    <img class="card-img-top" src="{{ asset('images/wine.jpg') }}" alt="" loading="lazy">
+                    <img class="card-img-top" src="{{ asset('images/wine.jpg') }}" alt="">
                     <div class="card-body">
                         <h5>18 shots</h5>
                         <div class="spacer-32"></div>

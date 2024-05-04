@@ -11,7 +11,7 @@
         <div class="recepction-col-1" >
 
         <div class="rep-col-1">
-            <img src="{{ asset('images/place.jpg') }}" alt="" loading="lazy">
+            <img src="{{ asset('images/place.jpg') }}" alt="">
             <div class="spacer-32"></div>
             <p>Reception will be held at <span style="color: rgba(229,173,173,1); font-weight: 500" >Dr. Gloria P. Tomas Bldg.</span> </p>
             <p>Located at Brgy. 02, Piddig, Ilocos Norte</p>

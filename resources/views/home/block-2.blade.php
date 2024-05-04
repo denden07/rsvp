@@ -17,7 +17,7 @@
                 <h2>Program flow</h2>
                 <div class="spacer-40"></div>
                 <div class="spacer-40"></div>
-                <img src="{{ asset('images/program.png') }}" alt="" loading="lazy">
+                <img src="{{ asset('images/program.png') }}" alt="">
             </div>
         </div>
     </div>
