@@ -11,6 +11,7 @@
     </div>
     <div class="spacer-32"></div>
 <section id="gallery" class="gallery">
+
   <div>
     <article>
     <img src="{{ asset('images/gallery/1_50.webp') }}" alt="" >
