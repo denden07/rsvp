@@ -1086,28 +1086,28 @@ body {
   }
 
   .eightheen-roses {
-    background: url('../images/18roses.webp');
+    background-image: url('../images/18roses.webp');
     background-size: cover;
     background-repeat: round;
   }
   .eightheen-blue-bills {
-    background: url('../images/18bills.webp');
+    background-image: url('../images/18bills.webp');
     background-size: cover;
     background-repeat: round;
   }
   .eightheen-shots {
-    background: url('../images/18shots.webp');
+    background-image: url('../images/18shots.webp');
     background-size: cover;
     background-repeat: round;
   }
    .eightheen-candles {
-    background: url('../images/18candles.webp');
+    background-image: url('../images/18candles.webp');
     background-size: cover;
     background-repeat: round;
   }
 
   .eightheen-treasures {
-    background: url('../images/18treasures.webp');
+    background-image: url('../images/18treasures.webp');
     background-size: cover;
     background-repeat: round;
   }
