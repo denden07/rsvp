@@ -621,7 +621,6 @@ body {
     font-size: 18px;
     font-family: var(--font-family-01);
     font-weight: 300;
-    margin-right: 25px;
     line-height: 1.5;
     color: #000;
 }
@@ -1409,5 +1408,11 @@ ul {
 @media screen and (min-width:720px ) and (max-width:1162px ) {
     .gallery {
         --_size: 210px !important;
+    }
+ }
+
+ @media screen  and (max-width:425px ) {
+    .rep-col-2 {
+        width: 100%;
     }
  }
