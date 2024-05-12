@@ -1,6 +1,3 @@
-<div class="spacer-56"></div>
-<div class="spacer-56"></div>
-<div class="spacer-56"></div>
 
 <div class="reception">
 

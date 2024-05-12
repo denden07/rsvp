@@ -2,7 +2,9 @@
 <div class="spacer-56"></div>
     <div class="spacer-56"></div>
     <div class="wrapper reception-wrapper reception-wrapper-2" style="overflow-x: hidden">
-        <h2 style='font-size: 80px !important;'>Venue & Address</h2>
+        <h2 style='font-size: 48px !important;  font-family: var(--font-family-02) !important;
+    font-size: 48px;
+    font-weight: 200 !important;'>Venue & Address</h2>
         <div class="spacer-32"></div>
         <div class="spacer-32"></div>
         <div class="spacer-32"></div>

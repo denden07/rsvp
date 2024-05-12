@@ -3,10 +3,11 @@
     --font-family-02: "Ultra", serif;
     --font-family-03: "Quicksand", sans-serif;
     --font-family-04:  "Niconne", cursive;
+    --font-family-05: "Great Vibes", cursive;
     --color-white: #fdfdff;
     --color-burgandy: #800020;
     --color-gold: #CCA43B;
-    --color-light-gold: #fef250;
+    --color-light-gold: #fdb515;
     --linear-gradient-gold: linear-gradient(0deg, rgba(226,197,18,0.39539565826330536) 0%, rgba(38,38,36,0.3393732492997199) 100%);
     --linear-gradient-black: linear-gradient(0deg, rgba(0,0,0,0.39539565826330536) 0%, rgba(50,50,49,0.3393732492997199) 100%);
 
@@ -509,7 +510,7 @@ body {
 
 .content-1-contents p {
     font-size: 80px;
-    font-family: var(--font-family-04);
+    font-family: var( --font-family-05);
     font-weight: 400;
     font-style: italic;
 }
@@ -637,20 +638,33 @@ body {
 
 
 .recepction-col-2 h2 {
-    font-family: var(--font-family-04);
+    font-family: var( --font-family-05);
     font-size: 80px !important;
     color: white;
     font-weight: unset;
     text-align: center;
  }
 
- .reception-wrapper-2 , .birthday-queen {
-    font-family: var(--font-family-04);
+ .birthday-queen {
+    font-family: var( --font-family-05);
     font-size: 80px !important;
     color: #000;
     font-weight: unset;
     text-align: center;
  }
+
+ .reception-wrapper-2  {
+    font-family: var( --font-family-01);
+    font-size: 80px !important;
+    color: #000;
+    font-weight: unset;
+    text-align: center;
+ }
+
+ .select-text {
+    font-family: var( --font-family-01);
+ }
+
 
 .col-1, .col-2 {
     flex-basis: 100%;
@@ -865,7 +879,6 @@ body {
 
   .select-text {
       position: relative;
-      font-family: inherit;
       background-color: transparent;
       width: 350px;
       padding: 10px 10px 10px 0;
@@ -913,7 +926,7 @@ body {
       left: 0;
       top: 10px;
       transition: 0.2s ease all;
-      font-family: var(--font-family-04);
+      font-family: var( --font-family-01);
   }
 
   /* active state */
@@ -1261,6 +1274,10 @@ ul {
   }
 
 @media screen and (max-width: 639px) {
+        .dericha-letter {
+            font-size: 74px !important;
+        }
+
     .wrapper {
         padding-right: 24px;
         padding-left: 24px;

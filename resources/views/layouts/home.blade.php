@@ -17,7 +17,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Oi&family=Poppins:wght@100;300;400;500;600&family=Ultra&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
 
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Kristi&family=Niconne&family=Oi&family=Poppins:wght@100;300;400;500;600&family=Princess+Sofia&family=Quicksand:wght@300..700&family=Ultra&display=swap" rel="stylesheet">    <!-- Styles -->
+    <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Inter:wght@100..900&family=Kristi&family=Niconne&family=Oi&family=Poppins:wght@100;300;400;500;600&family=Princess+Sofia&family=Quicksand:wght@300..700&family=Ultra&display=swap" rel="stylesheet">
     <link href="{{ asset('css/custom.css') }}" rel="stylesheet"  type="text/css">
 
     <!-- AOS -->

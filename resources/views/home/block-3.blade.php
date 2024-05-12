@@ -18,14 +18,15 @@
       <div><span class="material-symbols-outlined material-fill-1">favorite</span>12 Likes</div>
     </article>
     <article>
-    <img src="{{ asset('images/gallery/2_50.webp') }}" alt="" >
-      <div><span class="material-symbols-outlined material-fill-1">favorite</span>23 Likes</div>
-    </article>
-    <article>
-    <img src="{{ asset('images/gallery/3_50.webp') }}" alt="" >
-      <div><span class="material-symbols-outlined material-fill-1">favorite</span>6 Likes</div>
+    <img src="{{ asset('images/gallery/8_50.webp') }}" alt="" >
+      <div><span class="material-symbols-outlined material-fill-1">favorite</span>98 Likes</div>
     </article>
 
+
+    <article>
+    <img src="{{ asset('images/gallery/9_50.webp') }}" alt="" >
+      <div><span class="material-symbols-outlined material-fill-1">favorite</span>37 Likes</div>
+    </article>
   </div>
   <div>
     <article>
@@ -47,15 +48,16 @@
     <img src="{{ asset('images/gallery/7_50.webp') }}" alt="" >
       <div><span class="material-symbols-outlined material-fill-1">favorite</span>145 Likes</div>
     </article>
+
     <article>
-    <img src="{{ asset('images/gallery/8_50.webp') }}" alt="" >
-      <div><span class="material-symbols-outlined material-fill-1">favorite</span>98 Likes</div>
-    </article>
-    <article>
-    <img src="{{ asset('images/gallery/9_50.webp') }}" alt="" >
-      <div><span class="material-symbols-outlined material-fill-1">favorite</span>37 Likes</div>
+    <img src="{{ asset('images/gallery/2_50.webp') }}" alt="" >
+      <div><span class="material-symbols-outlined material-fill-1">favorite</span>23 Likes</div>
     </article>
 
+    <article>
+    <img src="{{ asset('images/gallery/3_50.webp') }}" alt="" >
+      <div><span class="material-symbols-outlined material-fill-1">favorite</span>6 Likes</div>
+    </article>
   </div>
 
 </section>

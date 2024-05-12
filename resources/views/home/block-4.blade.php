@@ -1,5 +1,7 @@
 <div class="block-4-container">
     <div class="spacer-40"></div>
+    <div class="spacer-40"></div>
+
     <div class="gtco-testimonials">
         <div class="owl-carousel owl-carousel1 owl-theme">
             <div>
