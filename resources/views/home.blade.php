@@ -26,6 +26,7 @@
                             </tr>
                         </thead>
                         <tbody>
+                            {{ $rsvp}}
                             @foreach($rsvp as $data)
                             <tr>
                                 <td>{{ $data -> full_name}}</td>
@@ -39,7 +40,7 @@
                                     @endif
                                 </td>
                                 <td>
-                                    @if($data -> plus_one == 1)
+                                    @if($data -> plus_one == 2)
                                     Yes
                                     @else
                                     No

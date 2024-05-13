@@ -61,7 +61,7 @@
 
 
                 <div class="form__group">
-                    <textarea id="message" class="form__field" placeholder="Your Message" rows="6" name="message"></textarea>
+                    <textarea id="message" class="form__field" placeholder="Your Message" rows="6" name="message" required></textarea>
                     <label for="message" class="form__label">Your Message</label>
                 </div>
                 <div class="spacer-56"></div>
