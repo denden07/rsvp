@@ -26,7 +26,6 @@
                             </tr>
                         </thead>
                         <tbody>
-                            {{ $rsvp}}
                             @foreach($rsvp as $data)
                             <tr>
                                 <td>{{ $data -> full_name}}</td>
